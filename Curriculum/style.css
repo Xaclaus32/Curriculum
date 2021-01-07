@@ -1,0 +1,47 @@
+elemento#header {
+
+    color: rgb(0, 0, 0);
+    position: relative;
+    right: -400px;
+}
+    body{
+        background-color: rgb(177, 70, 27);
+    }
+    p.centrado {
+        text-align: center;
+        position: relative;
+        right: 250;
+      }
+h2.a{
+    position: relative;
+    left: 6.4cm;
+    top: -5cm;
+    background-color: goldenrod;
+    display: inline;
+}
+p.info{
+    position: relative;
+    left: 0cm;
+    top: -5cm;
+    color: honeydew;
+}
+h3.info{
+    position: relative;
+    left: 0cm;
+    top: -5cm;
+}
+I{
+    position: relative;
+    left: 0cm;
+    top: -5cm;
+    color: lavender;
+}
+h2{
+    background-color: goldenrod;
+    display: inline;
+
+}
+main{
+    position: relative;
+    bottom: -5cm;
+}
